@@ -16,3 +16,21 @@ h3.bigger {
 .typewriter {
   font-family: "Courier New", Courier, monospace;
 }
+p.standout {
+  font-style: italic;
+} 
+h4.special {
+  font-style: italic;
+}
+.emphasized {
+  font-style: italic;
+}
+.mines {
+  font-style: italic;
+}
+.standout {
+  color: #cc0000;
+}
+.bloody {
+  color: #ED0505;
+}
