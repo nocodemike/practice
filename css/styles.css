@@ -5,6 +5,7 @@ p {
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 2em;
+  letter-spacing: 1em;
 } 
 p.important {
   font-size: 1.5em;
@@ -34,3 +35,46 @@ h4.special {
 .bloody {
   color: #ED0505;
 }
+.readability {
+  letter-spacing: 0.5em;
+  word-spacing: 1em;
+  line-height: 2em;
+}
+h3 {
+  text-align: center;
+}
+p.pretty {
+  text-align: justify;
+  text-indent: 1em;
+  margin: 2em;
+
+}
+blockquote {
+  font-size:1.4em;
+  color: darkslategray;
+}
+.flashy {
+  border: 5px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
